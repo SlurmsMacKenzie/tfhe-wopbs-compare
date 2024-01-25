@@ -6,4 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-tfhe = { version = "0.4.1", features = ["shortint", "integer", "x86_64-unix"]}
+tfhe = { version = "0.5.0", features = ["shortint", "integer", "x86_64-unix"]}
